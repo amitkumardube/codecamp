@@ -8,6 +8,9 @@ Terraform Automated Testing Toolkit
 ## About the speaker
 With over 13 years of IT experience and more than 2 years around Infra coding, Amit has recently joined Thoughtworks Romania as an infrastructure Lead Consultant. He is determined to write secure and testable infrastructure code using Terraform. He also signs technical content on medium and advocates about Test Driven Development and Zero Trust CI/CD pipelines with Terraform. Beyond work, he enjoys reading thought leadership content and riding bicycle with his family.
 
+## LinkedIn Profile
+https://www.linkedin.com/in/amit-dube-40b6351a
+
 
 ## Documentation for reference
 
